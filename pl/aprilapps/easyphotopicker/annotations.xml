@@ -1,0 +1,5 @@
+<root>
+    <item name='pl.aprilapps.easyphotopicker.DefaultCallback'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
